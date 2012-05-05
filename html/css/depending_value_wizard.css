@@ -1,0 +1,17 @@
+.depending_value_wizard{
+	padding: 0 0 0 0;
+	margin: 0 0 0 0;
+	overflow: hidden;
+	text-align: left;
+	width: 320px;
+}
+.depending_value_wizard tr td{
+	padding: 2px 0;
+	margin: 0 0 0 0;
+}
+.depending_value_wizard tr td.label{
+	padding-right: 15px;
+}
+.depending_value_wizard tr td.value{
+	width: 158px;
+}
