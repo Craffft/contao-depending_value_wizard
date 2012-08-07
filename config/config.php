@@ -29,13 +29,13 @@
  */
 
 /**
- * FRONT END FORM FIELDS
+ * Frontend form fields
  */
 $GLOBALS['TL_FFL']['FormDependingValueWizard'] = 'FormDependingValueWizard';
 
 
 /**
- * BACK END FORM FIELDS
+ * Backend form fields
  */
 $GLOBALS['BE_FFL']['ModuleDependingValueWizard'] = 'ModuleDependingValueWizard';
 
